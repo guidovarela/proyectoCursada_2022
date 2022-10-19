@@ -1,0 +1,46 @@
+
+html{
+    scroll-behavior: smooth;
+}
+
+.header1{
+    background: #00aeac;
+}
+.header .logo{
+
+}
+
+.header2{
+    background: #069291;
+}
+
+.banner{
+    background: linear-gradient(to right, #0f0c29, #302b63, #24243e);
+   
+    /* margin-bottom: 10em; */
+}
+
+.bannerBottom{
+    background: gray;
+}
+
+.foot1{
+    background: #232a34;
+}
+.foot2{
+    background: #1b222a;
+}
+
+#navbarNav{
+    /* background: tomato; */
+    text-align: right;
+}
+
+
+/* Form */
+#contacto{
+    background: url("https://picsum.photos/seed/picsum/1000/2300");
+    background-size: 100%;
+    background-position: center;
+    
+}
